@@ -1,6 +1,6 @@
 # A Shell Game
 
-Build a minimal Unix-style shell called `crash` that supports job control, background/foreground execution, signal handling, and job tracking.
+Built a minimal Unix-style shell called `crash` that supports job control, background/foreground execution, signal handling, and job tracking.
 
 ## Summary
 
