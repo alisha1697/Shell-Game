@@ -1,10 +1,8 @@
-===================
-A Shell Game
-===================
+# A Shell Game
 
 Build a minimal Unix-style shell called `crash` that supports job control, background/foreground execution, signal handling, and job tracking.
 
-## 🧠 Summary
+## Summary
 
 Implemented a command-line shell that:
 - Parses input lines into commands
@@ -44,7 +42,7 @@ This project emphasizes **signal safety**, **concurrency**, and **process contro
 - Shell supports up to **32 concurrent jobs**.
 
 
-### 🔁 Signals
+### Signals
 
 | Signal | Action |
 |--------|--------|
